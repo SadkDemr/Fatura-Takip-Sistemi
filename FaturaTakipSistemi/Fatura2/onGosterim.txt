@@ -1,0 +1,10 @@
+Kira:1300TL	16/Subat/2021
+
+Aydat:350TL	16/Mart/2021
+
+SuFaturasi:150TL	14/Mayis/2021
+
+Toplam:1800
+Gelir:5000
+KarZarar3200TL
+******************************************************

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1610578202 source:c:\users\lenova\onedrive\masaüstü\yazılımproje\faturatakipsistemi\fatura2\main.cpp
+	<iostream>
+	<istream>
+	<fstream>
+	<windows.h>
+	<ctime>
+

@@ -1,0 +1,129 @@
+AY / YIL :Subat/2021
+
+Elektrik faturasi tutarini giriniz:55TL
+
+Su faturasi tutarini giriniz:65TL
+
+Dogalgaz faturasi tutarini giriniz:85TL
+
+Internet faturasi tutarini giriniz:100TL
+
+Kira tutarini giriniz:1300TL
+
+Aydat:300TL
+
+Gida tutari:123TL
+Aylik Gelir:5000TL
+Toplam aylik kar/zarar:2972TL
+------------------------------------
+AY / YIL :Mart/2021
+
+Elektrik faturasi tutarini giriniz:100TL
+
+Su faturasi tutarini giriniz:100TL
+
+Dogalgaz faturasi tutarini giriniz:100TL
+
+Internet faturasi tutarini giriniz:100TL
+
+Kira tutarini giriniz:1300TL
+
+Aydat:250TL
+
+Gida tutari:120TL
+Aylik Gelir:9000TL
+Toplam aylik kar/zarar:6930TL
+------------------------------------
+AY / YIL :Ocak/2021
+
+Elektrik faturasi tutarini giriniz:100TL
+
+Su faturasi tutarini giriniz:150TL
+
+Dogalgaz faturasi tutarini giriniz:300TL
+
+Internet faturasi tutarini giriniz:145TL
+
+Kira tutarini giriniz:500TL
+
+Aydat:600TL
+
+Gida tutari:125TL
+Aylik Gelir:9000TL
+Toplam aylik kar/zarar:7080TL
+------------------------------------
+AY / YIL :Mayçs/2021
+
+Elektrik faturasi tutarini giriniz:150TL
+
+Su faturasi tutarini giriniz:50TL
+
+Dogalgaz faturasi tutarini giriniz:200TL
+
+Internet faturasi tutarini giriniz:95TL
+
+Kira tutarini giriniz:0TL
+
+Aydat:0TL
+
+Gida tutari:2000TL
+Aylik Gelir:65000TL
+Toplam aylik kar/zarar:62505TL
+------------------------------------
+AY / YIL :Ocak/2021
+
+Elektrik faturasi tutarini giriniz:100TL
+
+Su faturasi tutarini giriniz:100TL
+
+Dogalgaz faturasi tutarini giriniz:150TL
+
+Internet faturasi tutarini giriniz:95TL
+
+Kira tutarini giriniz:1300TL
+
+Aydat:250TL
+
+Gida tutari:200TL
+
+Aylik Gelir:9000TL
+Toplam aylik kar/zarar:6805TL
+------------------------------------
+AY / YIL :Haziran/2021
+
+Elektrik faturasi tutarini giriniz:60TL
+
+Su faturasi tutarini giriniz:85TL
+
+Dogalgaz faturasi tutarini giriniz:100TL
+
+Internet faturasi tutarini giriniz:95TL
+
+Kira tutarini giriniz:1300TL
+
+Aydat:300TL
+
+Gida tutari:620TL
+
+Aylik Gelir:8000TL
+Toplam aylik kar/zarar:5440TL
+------------------------------------
+AY / YIL :Subat/2021
+
+Elektrik faturasi tutarini giriniz:100TL
+
+Su faturasi tutarini giriniz:100TL
+
+Dogalgaz faturasi tutarini giriniz:120TL
+
+Internet faturasi tutarini giriniz:150TL
+
+Kira tutarini giriniz:1300TL
+
+Aydat:350TL
+
+Gida tutari:100TL
+
+Aylik Gelir:9000TL
+Toplam aylik kar/zarar:6780TL
+------------------------------------
